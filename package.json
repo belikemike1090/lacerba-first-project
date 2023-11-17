@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "belikemike",
+  "repository": {
+    "url": "https://github.com/belikemike1090/lacerba-first-project"
+  },
   "license": "ISC"
 }
