@@ -13,5 +13,12 @@
   "repository": {
     "url": "https://github.com/belikemike1090/lacerba-first-project"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1"
+  },
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "@types/node": "^20.9.1"
+  }
 }
